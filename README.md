@@ -1,6 +1,7 @@
 # Multimedia
 
-## This repository contains the homework in the Multimedia course in NCTU.
+## Introduction
+- This repository contains the homework in the Multimedia course in NCTU.
 
 ## HW1
 - A html page to present the text sample with the consideration of human visual dynamics.
